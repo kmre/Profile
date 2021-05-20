@@ -41,11 +41,11 @@ a {
 }
 
 #main-bio {
-  width: 70%;
+  width: 50%;
 }
 
 #contact-info {
-  width: 30%;
+  width: fit-content;
 }
 
 #bio-image {
